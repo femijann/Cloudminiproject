@@ -137,27 +137,27 @@ The steps to build the docker image and deploy application in kubernetes:
         sudo microk8s enable registry
  2.  Save the file cassandra-deployment.yaml in the current project directory 
 ```
-        apiVersion: apps/v1
-        kind: Deployment
-        metadata:
-            name: cassandra-deployment
-            labels:
-                app: Coursework
-        spec:
-            selector:
-                matchLabels:
-                    app: Coursework
-        replicas: 3
-        template:
-            metadata:
-                labels:
-                    app: Coursework
-            spec:
-                containers:
-                - name: coursework
-                  image: localhost:32000/mycassandra:registry
-                  ports:
-                   - containerPort: 443
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: cassandra-deployment
+  labels:
+    app: Coursework
+spec:
+  selector:
+    matchLabels:
+      app: Coursework
+  replicas: 2
+  template:
+    metadata:
+      labels:
+        app: Coursework
+    spec:
+      containers:
+      - name: coursework
+        image: localhost:32000/mycassandra:registry
+        ports:
+        - containerPort: 80
  ```
  3. Build the cassandra docker image and tag it to registry
  
