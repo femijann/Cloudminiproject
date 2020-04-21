@@ -1,0 +1,163 @@
+﻿key,fuel,int_ind,intensity,perc,region_desc,region_id
+1,biomass,1,very low,0.001,Scottish Hydro Electric Power Distribution,1
+2,coal,1,very low,0.001,Scottish Hydro Electric Power Distribution,1
+3,imports,1,very low,0.001,Scottish Hydro Electric Power Distribution,1
+4,gas,1,very low,0.001,Scottish Hydro Electric Power Distribution,1
+5,nuclear,1,very low,0.001,Scottish Hydro Electric Power Distribution,1
+6,other,1,very low,0.001,Scottish Hydro Electric Power Distribution,1
+7,hydro,1,very low,71.1,Scottish Hydro Electric Power Distribution,1
+8,solar,1,very low,0.001,Scottish Hydro Electric Power Distribution,1
+9,wind,1,very low,28.9,Scottish Hydro Electric Power Distribution,1
+10,biomass,22,very low,2.5,SP Distribution,2
+11,coal,22,very low,0.001,SP Distribution,2
+12,imports,22,very low,0.1,SP Distribution,2
+13,gas,22,very low,4.8,SP Distribution,2
+14,nuclear,22,very low,61.6,SP Distribution,2
+15,other,22,very low,0.001,SP Distribution,2
+16,hydro,22,very low,0.001,SP Distribution,2
+17,solar,22,very low,9.2,SP Distribution,2
+18,wind,22,very low,21.8,SP Distribution,2
+19,biomass,1,very low,0.001,Electricity North West,3
+20,coal,1,very low,0.001,Electricity North West,3
+21,imports,1,very low,0.001,Electricity North West,3
+22,gas,1,very low,0.001,Electricity North West,3
+23,nuclear,1,very low,77.7,Electricity North West,3
+24,other,1,very low,0.001,Electricity North West,3
+25,hydro,1,very low,0.001,Electricity North West,3
+26,solar,1,very low,6.8,Electricity North West,3
+27,wind,1,very low,15.5,Electricity North West,3
+28,biomass,24,very low,20.5,NPG North East,4
+29,coal,24,very low,0.001,NPG North East,4
+30,imports,24,very low,0.001,NPG North East,4
+31,gas,24,very low,0.001,NPG North East,4
+32,nuclear,24,very low,58.2,NPG North East,4
+33,other,24,very low,0.001,NPG North East,4
+34,hydro,24,very low,0.001,NPG North East,4
+35,solar,24,very low,12.4,NPG North East,4
+36,wind,24,very low,8.9,NPG North East,4
+37,biomass,240,moderate,25,NPG Yorkshire,5
+38,coal,240,moderate,0.2,NPG Yorkshire,5
+39,imports,240,moderate,0.001,NPG Yorkshire,5
+40,gas,240,moderate,53,NPG Yorkshire,5
+41,nuclear,240,moderate,0.001,NPG Yorkshire,5
+42,other,240,moderate,0.001,NPG Yorkshire,5
+43,hydro,240,moderate,0.001,NPG Yorkshire,5
+44,solar,240,moderate,7.6,NPG Yorkshire,5
+45,wind,240,moderate,14.2,NPG Yorkshire,5
+46,biomass,51,very low,0.4,SP Manweb,6
+47,coal,51,very low,0.001,SP Manweb,6
+48,imports,51,very low,0.6,SP Manweb,6
+49,gas,51,very low,11.8,SP Manweb,6
+50,nuclear,51,very low,3.2,SP Manweb,6
+51,other,51,very low,0.001,SP Manweb,6
+52,hydro,51,very low,7.4,SP Manweb,6
+53,solar,51,very low,38.2,SP Manweb,6
+54,wind,51,very low,38.4,SP Manweb,6
+55,biomass,103,low,1.3,WPD South Wales,7
+56,coal,103,low,0.001,WPD South Wales,7
+57,imports,103,low,0.001,WPD South Wales,7
+58,gas,103,low,25.9,WPD South Wales,7
+59,nuclear,103,low,3.6,WPD South Wales,7
+60,other,103,low,0.001,WPD South Wales,7
+61,hydro,103,low,2.6,WPD South Wales,7
+62,solar,103,low,30.2,WPD South Wales,7
+63,wind,103,low,36.4,WPD South Wales,7
+64,biomass,73,low,8.4,WPD West Midlands,8
+65,coal,73,low,0.001,WPD West Midlands,8
+66,imports,73,low,0.001,WPD West Midlands,8
+67,gas,73,low,15.3,WPD West Midlands,8
+68,nuclear,73,low,23.1,WPD West Midlands,8
+69,other,73,low,0.001,WPD West Midlands,8
+70,hydro,73,low,16.4,WPD West Midlands,8
+71,solar,73,low,18.4,WPD West Midlands,8
+72,wind,73,low,18.4,WPD West Midlands,8
+73,biomass,137,low,0.001,WPD East Midlands,9
+74,coal,137,low,0.001,WPD East Midlands,9
+75,imports,137,low,0.001,WPD East Midlands,9
+76,gas,137,low,34.8,WPD East Midlands,9
+77,nuclear,137,low,0.001,WPD East Midlands,9
+78,other,137,low,0.001,WPD East Midlands,9
+79,hydro,137,low,0.001,WPD East Midlands,9
+80,solar,137,low,34.9,WPD East Midlands,9
+81,wind,137,low,30.3,WPD East Midlands,9
+82,biomass,54,very low,0.001,UKPN East,10
+83,coal,54,very low,0.001,UKPN East,10
+84,imports,54,very low,0.001,UKPN East,10
+85,gas,54,very low,14,UKPN East,10
+86,nuclear,54,very low,25.5,UKPN East,10
+87,other,54,very low,0.001,UKPN East,10
+88,hydro,54,very low,0.001,UKPN East,10
+89,solar,54,very low,23.7,UKPN East,10
+90,wind,54,very low,36.8,UKPN East,10
+91,biomass,21,very low,0.2,WPD South West,11
+92,coal,21,very low,0.001,WPD South West,11
+93,imports,21,very low,0.1,WPD South West,11
+94,gas,21,very low,5.3,WPD South West,11
+95,nuclear,21,very low,0.1,WPD South West,11
+96,other,21,very low,0.001,WPD South West,11
+97,hydro,21,very low,0.001,WPD South West,11
+98,solar,21,very low,84.9,WPD South West,11
+99,wind,21,very low,9.4,WPD South West,11
+100,biomass,150,low,3,SSE South,12
+101,coal,150,low,0.001,SSE South,12
+102,imports,150,low,1.8,SSE South,12
+103,gas,150,low,37.1,SSE South,12
+104,nuclear,150,low,2,SSE South,12
+105,other,150,low,0.001,SSE South,12
+106,hydro,150,low,0.3,SSE South,12
+107,solar,150,low,43.8,SSE South,12
+108,wind,150,low,12,SSE South,12
+109,biomass,76,low,0.8,UKPN London,13
+110,coal,76,low,0.001,UKPN London,13
+111,imports,76,low,9,UKPN London,13
+112,gas,76,low,16.5,UKPN London,13
+113,nuclear,76,low,19.1,UKPN London,13
+114,other,76,low,0.001,UKPN London,13
+115,hydro,76,low,0.7,UKPN London,13
+116,solar,76,low,21.7,UKPN London,13
+117,wind,76,low,32.2,UKPN London,13
+118,biomass,132,low,0.001,UKPN South East,14
+119,coal,132,low,0.001,UKPN South East,14
+120,imports,132,low,42.1,UKPN South East,14
+121,gas,132,low,19.7,UKPN South East,14
+122,nuclear,132,low,0.001,UKPN South East,14
+123,other,132,low,0.001,UKPN South East,14
+124,hydro,132,low,2.9,UKPN South East,14
+125,solar,132,low,16.4,UKPN South East,14
+126,wind,132,low,18.9,UKPN South East,14
+127,biomass,100,low,5.2,England,15
+128,coal,100,low,0.001,England,15
+129,imports,100,low,6.2,England,15
+130,gas,100,low,21.9,England,15
+131,nuclear,100,low,17.1,England,15
+132,other,100,low,0.001,England,15
+133,hydro,100,low,0.6,England,15
+134,solar,100,low,28.2,England,15
+135,wind,100,low,20.8,England,15
+136,biomass,12,very low,1.8,Scotland,16
+137,coal,12,very low,0.001,Scotland,16
+138,imports,12,very low,0.001,Scotland,16
+139,gas,12,very low,2.6,Scotland,16
+140,nuclear,12,very low,45.2,Scotland,16
+141,other,12,very low,0.001,Scotland,16
+142,hydro,12,very low,19.3,Scotland,16
+143,solar,12,very low,6.8,Scotland,16
+144,wind,12,very low,24.3,Scotland,16
+145,biomass,79,low,0.001,Wales,17
+146,coal,79,low,0.001,Wales,17
+147,imports,79,low,0.5,Wales,17
+148,gas,79,low,19.5,Wales,17
+149,nuclear,79,low,0.001,Wales,17
+150,other,79,low,0.001,Wales,17
+151,hydro,79,low,3.1,Wales,17
+152,solar,79,low,29,Wales,17
+153,wind,79,low,47.9,Wales,17
+154,biomass,100,low,4.2,GB,18
+155,coal,100,low,0.001,GB,18
+156,imports,100,low,7.6,GB,18
+157,gas,100,low,19.3,GB,18
+158,nuclear,100,low,18.1,GB,18
+159,other,100,low,0.001,GB,18
+160,hydro,100,low,2.3,GB,18
+161,solar,100,low,27.2,GB,18
+162,wind,100,low,21.3,GB,18

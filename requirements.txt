@@ -1,0 +1,8 @@
+pip
+Flask
+Cassandra-driver
+request
+jsonify
+requests
+requests_cache
+json2html
