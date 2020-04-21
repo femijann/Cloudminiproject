@@ -15,14 +15,17 @@ The API used is from https://carbon-intensity.github.io/api-definitions/#carbon-
 
 ## Interaction with Web Application
 ###External API
+
     *GET* @app.route('/regional/<postcode>')
 Get the details of the specific postcode using the external API.
 ###REST-based Service Interface
-    *GET* @app.route('/')
+    
+     *GET* @app.route('/')
 Displays the Home page
        
     *GET* @app.route('/regional')
 ####POST request   
+    
     *POST* @app.route('/regional/')    
 This is a POST request and can be executed using the following curl command:
     
